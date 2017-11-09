@@ -1,0 +1,7 @@
+{
+	"name":"manne",
+	"dependencies":{
+		"angular":"latest",
+		"bootstrap":"latest"
+	}
+}
